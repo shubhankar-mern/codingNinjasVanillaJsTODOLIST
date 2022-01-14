@@ -5,3 +5,4 @@ Press the circle before the task to mark it completed.(Completed task have a lin
 Total Task is shown at bottom left
 Clear All button is present at bottom right
 Indivisual tasks can be deleted by hovering over the dustbin icon towards their right.
+check at    https://shubhankar-mern.github.io/codingNinjasVanillaJsTODOLIST.github.io/
